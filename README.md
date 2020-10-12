@@ -1,5 +1,5 @@
 ### Hola cumunidad 👋
-Hola soy Romeo un desarrollador, estoy agradecido de que te encuentre en mi repositorio. Puedes ver mis linezas de codigo y disfrutar de ellas como desee, solo espero de ti, tu agradecimiento.
+Hola soy Romeo un desarrollador, estoy agradecido de que te encuentre en mi repositorio. Puedes ver mis lineazas de codigo y disfrutar de ellas como desee, solo espero de ti, tu agradecimiento.
 <!--
 **Riki1200/Riki1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
