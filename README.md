@@ -1,5 +1,5 @@
 ### Hello community 👋
-Hi i'am Romeo developer estoy agradecido de que te encuentre en mi repositorio. Puedes ver mis lineazas de codigo y disfrutar de ellas como desee, solo espero de ti, tu agradecimiento.
+## Hello everyone, i am Romeo developer i'm grateful of wich your here in my repository. Your looking my lines of code and enjoy of it how we wish, just i wait of you, you grateful.
 <!--
 **Riki1200/Riki1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
