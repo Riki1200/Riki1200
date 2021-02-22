@@ -1,6 +1,6 @@
 ### Hello community 👋
 ## Hello everyone, i am Romeo developer i'm grateful of wich your here in my repository. Your looking my lines of code and enjoy of it how we wish, just i wait of you, you grateful.
-
+# <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gi" alt="Example image">
 [code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif)
 <!--
 **Riki1200/Riki1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
