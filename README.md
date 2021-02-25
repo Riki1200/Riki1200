@@ -1,5 +1,6 @@
 ### Hello community 👋
-## Hello everyone, i am Romeo developer i'm grateful of wich your here in my repository. Your looking my lines of code and enjoy of it how we wish, just i wait of you, you grateful.
+## Hello everyone, i am Romeo, i am developer. I am grateful that you are here in my repository. You can see my lines of code, I only expect your gratitude from you
+.
 # <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" alt="Example image">
 [code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif)
 <!--
