@@ -2,7 +2,7 @@
 # Hello everyone, i am Romeo, i am a developer. I am grateful that you are here in my repository. You can see my lines of code, I only expect your gratitude from you
 .
 # <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" alt="Example image">
-[code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif)
+
 <!--
 **Riki1200/Riki1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
