@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi my stranger friend, thanks for visit my profile
+In this profie, I should be shared my acknowlegde about mobile development and web. I belive I can be improving my skills
+
+My skills are React, Kotlin and Swift. Thanks you for see my profile.
 
 <!--
 **Riki1200/Riki1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
