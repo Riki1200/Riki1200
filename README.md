@@ -7,13 +7,7 @@ I'm a passionate Mobile/Frontend Developer specializing in creating exceptional 
 - **Cloud Services:** Hands-on experience with Azure, Firebase, and AWS. I find particular interest in cloud solutions on Azure and Google Cloud, leveraging their capabilities for scalable and efficient application development.
 - **Frontend Technologies:** Adept at creating engaging and responsive user interfaces, ensuring a seamless user experience across various devices and platforms.
 
-## 🚀 Projects and Collaborations
-
-I'm always excited to collaborate on projects that push the boundaries of technology and creativity. If you're working on something innovative and need a dedicated developer with a flair for mobile and cloud technologies, feel free to reach out!
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Riki1200&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Riki1200&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riki1200&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
